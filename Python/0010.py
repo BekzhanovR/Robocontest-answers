@@ -1,0 +1,1 @@
+print("Yes" if int(input()) <= sum(list(map(int,input().split()))) else "No")
